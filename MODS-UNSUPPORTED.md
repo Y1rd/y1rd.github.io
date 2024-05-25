@@ -50,7 +50,8 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 	- [Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite) works
 - RandomPatches [**(Forge)**](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) [**(Fabric)**](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric)
 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font)
-- [MrCrayfish's Gun Mod **(1.16.5)**](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
+- [MrCrayfish's Gun Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)
+	- 1.16.5 is broken
 - [Applied Energistics](https://mcarchive.net/mods/applied-energistics?gvsn=), [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
 - [Zombe](https://forum.feed-the-beast.com/threads/zombe-mod-for-ftb-1-4-7.18012/)
 - [ReplayMod](https://www.replaymod.com/) 
