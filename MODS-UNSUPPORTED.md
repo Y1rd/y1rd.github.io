@@ -29,6 +29,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - almost all of them don't work because they aren't made with Android's inputs in mind
 
 ## Other Mods
+- [Legacy4J](https://modrinth.com/mod/legacy4j) **(Set `selectedControllerHandler` in options.txt to 0 to to fix)**
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 - [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
