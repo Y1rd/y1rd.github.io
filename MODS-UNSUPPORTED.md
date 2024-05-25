@@ -1,4 +1,4 @@
-# Unsupported Mods and Clients
+# Unsupported Mods and Clients (+ Workarounds/Fixes)
 Not everything that works on PC works on PojavLauncher. Below is a non-exhaustive list of mods that **may** not work.
 
 ## Performance Mods + Shaders
