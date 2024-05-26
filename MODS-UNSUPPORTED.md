@@ -4,11 +4,11 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 ## Performance Mods + Shaders
 - [Sodium](https://modrinth.com/mod/sodium)
 	- [GL4ES Patch](https://www.mediafire.com/folder/n004fh6pxuxk8/Sodium_1.17%2B)
-	- 0.5.x and later does not work without disabling the terrain optimization mixins. It's not recommend and even then it isn't faster then Vanilla/Optifine.
+	- 0.5.x and later does not work without disabling the terrain optimization mixins. It's not recommended and therefore isn't faster then Vanilla/Optifine.
 - [Embeddium](https://modrinth.com/mod/embeddium)
-	- Same deal as Sodium.
+	- Same problem as Sodium.
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files) 
-	- [Gl3ES Patch](https://www.mediafire.com/folder/jcyrf8l0osn4m/Rubidium_1.17%2B) for GL4ES, otherwise same deal
+	- [Gl4ES Patch](https://www.mediafire.com/folder/jcyrf8l0osn4m/Rubidium_1.17%2B) for GL4ES, otherwise same as the previous two
 - [Chlorine](https://www.curseforge.com/minecraft/mc-mods/chlorine)
 - [ShadersMod (GLSL Shaders)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286604-shaders-mod-updated-by-karyonix)
 - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders), [Iris Installer](https://irisshaders.net/download)
