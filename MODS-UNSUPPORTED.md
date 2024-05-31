@@ -38,7 +38,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 
 ## Other Mods
 - [Legacy4J](https://modrinth.com/mod/legacy4j)
-	- Set `selectedControllerHandler` in options.txt to 0
+	- Set `selectedControllerHandler` in options.txt to 2 for None, or 0 for a different library.
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 	- Disable Flywheel.
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
